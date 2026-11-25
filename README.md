@@ -4,7 +4,7 @@ A Streamlit project that builds, evaluates and optimizes classification models t
 
 ## Video
 
-**Video link:** 
+**Video link:** https://drive.google.com/file/d/1gC931ojG6hdRIomPp1Fv3qwmKrEWJACD/view?usp=sharing
 
 ## Project Objective
 
