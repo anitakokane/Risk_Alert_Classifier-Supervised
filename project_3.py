@@ -327,7 +327,7 @@ dt_search = RandomizedSearchCV(
     cv=5,
     scoring="f1",
     random_state=42,
-    n_jobs=-1,
+    n_jobs=1,
 )
 dt_search.fit(x_train, y_train)
 
@@ -371,7 +371,7 @@ rf_search = RandomizedSearchCV(
     cv=5,
     scoring="f1",
     random_state=42,
-    n_jobs=-1,
+    n_jobs=1,
 )
 rf_search.fit(x_train, y_train)
 
@@ -420,7 +420,7 @@ grid = GridSearchCV(
     param_grid,
     cv=5,
     scoring="f1",
-    n_jobs=-1,
+    n_jobs=1,
 )
 grid.fit(x_train, y_train)
 
