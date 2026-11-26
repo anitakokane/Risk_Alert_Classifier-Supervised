@@ -12,7 +12,7 @@ Design, evaluate and optimize a classification system that identifies risky cust
 
 ## Dataset
 
-- File: `Risk_Alert_Classifier_Dataset_4600 - Risk_Alert_Classifier_Dataset_4600.csv.csv`
+- File: `risk_data.csv`
 - Records: 4600 customers
 - Target: `risk_status` (about 88% safe, 12% risky, so the data is imbalanced)
 - Dropped columns: `customer_id`, `last_transaction_date`
