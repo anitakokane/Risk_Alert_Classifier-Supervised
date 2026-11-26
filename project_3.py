@@ -13,7 +13,7 @@ st.text("The Objective of this project is to design,evaluate,and optimize a clas
 st.markdown("### Part B:Dataset Understanding & Preparation")
 
 from pathlib import Path
-df = pd.read_csv(Path(__file__).parent / "risk_data.csv")
+df = pd.read_csv("risk_data.csv")
 st.markdown("#### Dataset Preview:")
 st.dataframe(df)
 
