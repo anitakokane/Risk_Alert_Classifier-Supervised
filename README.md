@@ -2,6 +2,8 @@
 
 A Streamlit project that builds, evaluates and optimizes classification models to predict high-risk customer behaviour (`risk_status`: 1 = risky, 0 = safe).
 
+**Live app:** [Open the Risk Alert Classifier](https://riskalertclassifier-supervised-i8cchfnf7mckwfluylsuhh.streamlit.app/)
+
 ## Video
 
 **Video link:** https://drive.google.com/file/d/1gC931ojG6hdRIomPp1Fv3qwmKrEWJACD/view?usp=sharing
